@@ -1,6 +1,7 @@
 package pages;
 
 import base.BasePage;
+import com.relevantcodes.extentreports.IExtentTestClass;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;

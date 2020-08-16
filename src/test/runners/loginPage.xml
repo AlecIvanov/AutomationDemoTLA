@@ -4,12 +4,7 @@
 <suite name="Login Page">
     <test name="Login Test">
         <classes>
-            <class name="tests.LogInPageTest">
-                <methods>
-                    <include name="verifyLogStandardUser"/>
-                    <include name="verifyLockerUser"/>
-                </methods>
-            </class>
+
         </classes>
     </test>
 
